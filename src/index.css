@@ -15,7 +15,7 @@ body {
   text-align: center;
 
   color: white;
-  background: linear-gradient(45deg,#373B44,#4286f4) center no-repeat;
+  background: linear-gradient(-90deg,#373B44,#4286f4) center;
   background-color: #4286f4;
   background-size: cover;
 }
